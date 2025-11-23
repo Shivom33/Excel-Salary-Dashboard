@@ -1,5 +1,5 @@
 # Excel-Salary-Dashboard
-![1_Salary_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
+![1_Salary_Dashboard.png](E:\Excel_Data_Analytics_Course-main\Excel_Data_Analytics_Course-main\0_Resources\Images)
 
 ## Introduction
 
